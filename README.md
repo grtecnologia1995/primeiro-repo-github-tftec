@@ -1,5 +1,3 @@
-﻿## Instruções de Deploy Básico
-	1. Clone o repositório
-	2. Execute o script básico de deploy
-	3. Monitore logs de deployment em tempo real
-	4. Treinamento TFTEC GitHub foundations
+## GitHub Codespaces
+
+GitHub Codespaces fornece um ambiente de desenvolvimento hospedado na nuvem.
