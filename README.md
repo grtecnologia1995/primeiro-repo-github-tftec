@@ -4,3 +4,9 @@
 	3. Execute os testes: `npm test`
 	4. Inicie o servidor: `npm start`
 	Teste de protecao
+
+	## Configurações do Sistema
+	- Ambiente: produção
+	- Porta: 8080
+	- Timeout: 30s
+	- Max connections: 1000
