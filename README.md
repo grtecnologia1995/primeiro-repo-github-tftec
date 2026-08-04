@@ -1,3 +1,4 @@
+
 ﻿## Configuração do Ambiente
 	1. Instale as dependências: `npm install`
 	2. Configure as variáveis de ambiente
@@ -15,3 +16,5 @@
 	- Porta: 8080
 	- Timeout: 30s
 	- Max connections: 1000
+
+
