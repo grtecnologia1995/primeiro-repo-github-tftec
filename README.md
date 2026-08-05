@@ -1,4 +1,4 @@
-﻿	## Configuração do Ambiente
+﻿## Configuração do Ambiente
 	1. Instale as dependências: `npm install`
 	2. Configure as variáveis de ambiente
 	3. Execute os testes: `npm test`
@@ -16,8 +16,4 @@
 	- Timeout: 30s
 	- Max connections: 1000
 
-	## Sistema de Monitoramento v2.0
-	- Dashboard de métricas em tempo real
-	- Alertas automatizados por email  
-	- Logs centralizados
-	- Health checks automáticos
+
